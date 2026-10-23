@@ -2,7 +2,7 @@
 
 Windows desktop voice assistant with hand gestures, local speech recognition, local memory, file tools, and an interactive 3D globe. This repository publishes the **compact friend edition of JARVIS 1.8**. V1 is the distribution name; it does not change the underlying application version.
 
-[Download JARVIS V1 for Windows x64](https://github.com/koppallilohith09-jpg/jarvis-v1/releases/latest/download/jarvis-v1.zip)
+[Download JARVIS V1 for Windows x64](https://github.com/Srisathvikchebrolu/jarvis-v1/releases/latest/download/jarvis-v1.zip)
 
 ## Install
 
@@ -11,7 +11,7 @@ Windows desktop voice assistant with hand gestures, local speech recognition, lo
 3. Open the resulting `JARVIS-1.8-Friend` folder and run `JARVIS-Local-Gestures.exe`. Keep its support folders beside the EXE.
 4. Open Settings and connect **your own Gemini or OpenAI API key**. Chat and document analysis require an internet connection and available provider quota. OpenAI API billing is separate from a ChatGPT subscription.
 
-Windows native voice is included. For the optional Kokoro British voice, download the [voice pack](https://github.com/koppallilohith09-jpg/jarvis-v1/releases/latest/download/jarvis-v1-kokoro-voice-pack.zip), close JARVIS, and extract it into the same parent folder containing `JARVIS-1.8-Friend`. Restart, then select Kokoro in Settings > Offline speech. Keep Windows native voice selected until the pack is installed.
+Windows native voice is included. For the optional Kokoro British voice, download the [voice pack](https://github.com/Srisathvikchebrolu/jarvis-v1/releases/latest/download/jarvis-v1-kokoro-voice-pack.zip), close JARVIS, and extract it into the same parent folder containing `JARVIS-1.8-Friend`. Restart, then select Kokoro in Settings > Offline speech. Keep Windows native voice selected until the pack is installed.
 
 The compact download is about 482 MB and expands to about 1.48 GB. The optional voice pack adds about 142 MB after extraction. No separate extraction software is needed. See [README-COMPACT.txt](README-COMPACT.txt) and [README-FIRST.txt](README-FIRST.txt).
 
@@ -23,7 +23,7 @@ The compact download is about 482 MB and expands to about 1.48 GB. The optional 
 - Rotate and zoom the original JARVIS globe. iPad access requires separate private HTTPS pairing.
 - Webcam eye tracking is experimental; head-assisted pointer control is available. Physical camera accuracy depends on the device and environment.
 
-This is the selected 1.8 build. The newer [JARVIS V2](https://github.com/koppallilohith09-jpg/jarvis-v2) contains the 1.8.2 launch confirmation, network, and camera fixes, with Kokoro included.
+This is the selected 1.8 build. The newer [JARVIS V2](https://github.com/Srisathvikchebrolu/jarvis-v2) contains the 1.8.2 launch confirmation, network, and camera fixes, with Kokoro included.
 
 ## Privacy
 
