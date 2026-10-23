@@ -1,0 +1,2 @@
+1d1b5ae26c5c07312e9702baa014e6e31c20f904d3d87e1e8e88a2f83a7e3115  jarvis-v1.zip
+8b9ab860011786a97360ff1fdfa0bd035928b5634db5e819e0de1d99c062c80b  jarvis-v1-kokoro-voice-pack.zip
